@@ -1,0 +1,14 @@
+Sensörlü Gece Lambası Projesi
+
+- Işık şiddeti ayarlanabilen beyaz bir ışık olacak.
+- Şarj edilebilir Li-iyon pil olacak.
+- PIR sensörü ile hareket algılacak
+	- Hareket algılayınca çalışacak 15 dk. yanacak. 
+- Ortamdaki ışık şiddeti de ölçülecek eğer sabah ise led yanmayacak.
+
+Kullanılacak Platform
+- Arduino IDE (https://wokwi.com/)
+- Arduino Nano
+- LDR 			=> ADC
+- HC-SR505 Mini PIR	=> IO (Timer süre)
+- Besleme 9V pil
