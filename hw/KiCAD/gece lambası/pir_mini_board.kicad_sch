@@ -1,0 +1,41 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "19f835d4-2ca1-4b92-afff-82635a5a5bff")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "PIR_OUT"
+		(shape output)
+		(at 60.96 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6317944c-0ded-4c08-873f-e5b454bc0f54")
+	)
+	(hierarchical_label "VCC"
+		(shape input)
+		(at 60.96 49.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6b3e16b0-a331-4070-8afc-768c46fcf42b")
+	)
+	(hierarchical_label "GND"
+		(shape input)
+		(at 60.96 57.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cb6c19a0-e1c0-468a-b30a-236969e2b728")
+	)
+)
